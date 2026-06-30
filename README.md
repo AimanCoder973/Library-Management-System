@@ -1,4 +1,3 @@
-
 # Library Management System in C++
 
 This project is developed using C++ and Object-Oriented Programming concepts.
